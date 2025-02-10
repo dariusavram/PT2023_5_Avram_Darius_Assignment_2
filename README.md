@@ -1,7 +1,7 @@
 # Queue Management Application
 
 ## Descriere
-Această aplicație simulează gestionarea cozilor pentru minimizarea timpului de așteptare al clienților. Clienții sunt generați la începutul simulării și sunt adăugați în coada optimă în funcție de strategia selectată. Aplicația măsoară timpul total petrecut în cozi și calculează timpul mediu de așteptare.
+Această aplicație simulează gestionarea cozilor pentru minimizarea timpului de așteptare al clienților.   Clienții sunt generați la începutul simulării și sunt adăugați în coada optimă în funcție de strategia selectată.   Aplicația măsoară timpul total petrecut în cozi și calculează timpul mediu de așteptare.
 
   
 ## Screenshot
@@ -46,7 +46,4 @@ Pentru validarea funcționalității aplicației, sunt folosite mai multe fișie
 ### 4. **Interfață Grafică**
 - `RealTimeQueue` – afișează outputul simulării în timp real.
 - `SimulationFrame` – oferă interfața utilizatorului pentru introducerea parametrilor.
-
-**Executare**  
-   Rulează clasa principală care inițiază `SimulationManager` și `SimulationFrame`.
 
