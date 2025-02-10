@@ -1,7 +1,9 @@
 # Queue Management Application
 
 ## Descriere
-Această aplicație simulează gestionarea cozilor pentru minimizarea timpului de așteptare al clienților.   Clienții sunt generați la începutul simulării și sunt adăugați în coada optimă în funcție de strategia selectată.   Aplicația măsoară timpul total petrecut în cozi și calculează timpul mediu de așteptare.
+Această aplicație simulează gestionarea cozilor pentru minimizarea timpului de așteptare al clienților.  
+Clienții sunt generați la începutul simulării și sunt adăugați în coada optimă în funcție de strategia selectată.  
+Aplicația măsoară timpul total petrecut în cozi și calculează timpul mediu de așteptare.  
 
   
 ## Screenshot
